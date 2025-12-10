@@ -4,7 +4,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using La
 The RAG approach combines:
 
 .Vector Store Search (FAISS) for retrieving relevant document chunks.
-I.nstruction-tuned Language Model for generating human-like answers.
+.Instruction-tuned Language Model for generating human-like answers.
 
 Features
 
